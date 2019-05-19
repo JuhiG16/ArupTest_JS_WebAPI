@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\components",
+    "\\src\\services"
+  ],
+  "SelectedNode": "\\src\\services\\httpservices.js",
+  "PreviewInSolutionExplorer": false
+}
